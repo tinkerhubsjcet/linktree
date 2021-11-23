@@ -1,0 +1,72 @@
+.logo {
+    width: 150px;
+    border-radius: 100px;
+    position: relative;
+    left: 5px;
+}
+
+.logo-text {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+.card {
+    border-radius: 20px;
+    width: 400px;
+}
+
+.card:hover {
+    cursor: pointer;
+}
+
+.icon {
+    width: 40px;
+}
+
+h6 {
+    display: inline-block;
+    font-weight: 550;
+}
+
+.discord {
+    position: relative;
+    right: 10px;
+}
+
+.twitter {
+    position: relative;
+    right: 10px;
+}
+
+.linkedin {
+    position: relative;
+    right: 5px;
+    bottom: 3px;
+}
+
+.insta-txt {
+    position: relative;
+    left: 12px;
+}
+
+.disc-txt, .twt-txt {
+    position: relative;
+    left: 0px;   
+}
+
+.link-txt {
+    position: relative;
+    left: 6px;
+}
+
+@media screen and (max-width: 480px) {
+    .card {
+        width: 320px;
+    }
+}
+
+@media screen and (min-width: 480px) {
+    .logo {
+        margin-top: 130px !important;
+    }
+}
