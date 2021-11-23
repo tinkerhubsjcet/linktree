@@ -3,7 +3,7 @@ function insta() {
 }
 
 function discord() {
-    window.open("https://docs.google.com/forms/d/e/1FAIpQLSf_JiePlR9mFDosSs3eUJlhll-t_wNl3gqSP1ZNjqUrwBAymA/viewform", "_blank");
+    window.open("https://tinkerhubsjcet.github.io/discord/", "_blank");
 }
 
 function linkedin() {
