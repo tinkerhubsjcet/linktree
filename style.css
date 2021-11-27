@@ -27,10 +27,6 @@ body {
     left: 5px;
 }
 
-.logo:hover {
-    cursor: pointer;
-}
-
 .logo-text {
     font-weight: 600;
     color: white;
